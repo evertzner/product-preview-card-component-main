@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/evertzner/static-job-listings](https://github.com/evertzner/static-job-listings)
-- Live Site URL: [https://gregarious-rabanadas-e5f547.netlify.app/](https://gregarious-rabanadas-e5f547.netlify.app/)
+- Solution URL: [https://github.com/evertzner/product-preview-card-component-main](https://github.com/evertzner/product-preview-card-component-main)
+- Live Site URL: [https://whimsical-genie-979727.netlify.app/](https://whimsical-genie-979727.netlify.app/)
 
 ## My process
 
